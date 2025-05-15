@@ -11,6 +11,7 @@ A complete gym management system with graphical user interface, featuring:
   4. *Trainer Schedules*: Manage trainer appointments and working hours
   5. *Membership Plans*: View and manage pricing plans
 
+There are other pages....
 
 ## Team Members
 - Michael Talaat Zakry Bakhit
@@ -18,7 +19,7 @@ A complete gym management system with graphical user interface, featuring:
 - Mostafa Ahmed Ramadan Elhayes
 
 ## College Project
-This system was developed as a web development course project for [MIT]
+This system was developed as a web development course project for [M.E.T]
 
 ## Requirements
 - XAMPP (for running the system)
